@@ -5,7 +5,7 @@ Foto Flux is a social media platform built using React where users can post and 
 The live link can be found here: [Live Site - Foto Flux](https://frontend-foto-flux-42b405ca1597.herokuapp.com/)
 <br>
 
-![Mockup](../frontend-foto-flux/readme/images/i-am-responsive.png)
+![Mockup](/static/images/i-am-responsive.png)
 
 ## The Strategy Plane
 
@@ -18,7 +18,7 @@ My social media platform, Foto Flux, is dedicated to fostering a vibrant online 
 
 The development process follows Agile principles, with a focus on transparency, collaboration, and iterative improvement. I utilized a Kanban board within GitHub Projects to manage the user stories and tasks efficiently. Each user story represents a specific feature or functionality from the user's perspective, organized into our Kanban board backlog. With clear workflow columns such as 'To Do,' 'In Progress' and 'Done,' to track the progress of each task as it moves through our development pipeline.
 
-![Kanban](../frontend-foto-flux/readme/images/user-stories.png)
+![Kanban](/static/images/user-stories.png)
 
 <hr>
 <br>
@@ -28,12 +28,12 @@ The development process follows Agile principles, with a focus on transparency, 
 ### Favicon: 
 The favicon feature ensures your website has a recognizable icon displayed in the browser tab, enhancing brand visibility and user experience.
 
-![Favicon](../frontend-foto-flux/readme/images/favicon.png)
+![Favicon](/static/images/favicon.png)
 
 ### Navbar: 
 The responsive navigation bar adapts seamlessly to different screen sizes, providing intuitive navigation for both desktop and mobile users. It includes a hamburger menu for mobile devices, optimizing space and accessibility on smaller screens.
 
-![Navbar](../frontend-foto-flux/readme/images/navbar.png)
+![Navbar](/static/images/navbar.png)
 
 ### Authentication: 
 Authentication functionality allows users to securely register, log in, and access personalized features. It ensures that only authorized users can interact with the platform's content and functionality.
@@ -42,59 +42,58 @@ Authentication functionality allows users to securely register, log in, and acce
 ### Homepage: 
 The homepage displays a curated feed of all users' posts, providing a centralized hub for users to discover and engage with content uploaded by the community.
 
-![Homepage](../frontend-foto-flux/readme/images/homepage.png)
+![Homepage](/static/images/homepage.png)
 
 ### Create Post Page:
 The create post page offers users a streamlined interface to upload and share their own content, encouraging active participation and contribution to the platform.
 
-![Createpost](../frontend-foto-flux/readme/images/create-post.png)
+![Createpost](/static/images/create-post.png)
 
 ### Feed Page: 
 The feed page presents users with a personalized feed of posts tailored to their interests and interactions, facilitating engagement and discovery of relevant content.
 
-![Feed](../frontend-foto-flux/readme/images/feed.png)
+![Feed](/static/images/feed.png)
 
 ### Liked Page: 
 The liked page showcases posts that the user has liked, enabling them to revisit and interact with their favorite content easily.
 
-![Liked](../frontend-foto-flux/readme/images/liked.png)
+![Liked](/static/images/liked.png)
 
 ### Contact Page: 
 The contact page offers a dedicated space for users to reach out with any issues, feedback, or inquiries, fostering communication and addressing user concerns promptly.
 
-![Contact](../frontend-foto-flux/readme/images/contact.png)
+![Contact](/static/images/contact.png)
 
 ### Profile Page: 
 The profile page provides users with a customizable space to showcase their information, activity, and preferences. It serves as a hub for managing personal settings and interactions within the platform.
 
-![Profile](../frontend-foto-flux/readme/images/profile.png)
+![Profile](/static/images/profile.png)
 
 ### Sign Out Option: 
 Logged-in users have the convenience of signing out securely from their accounts, ensuring privacy and security when accessing the platform from shared or public devices.
 
-![Signout](../frontend-foto-flux/readme/images/sign-out.png)
+![Signout](/static/images/sign-out.png)
 
 ### Sign In/Sign Up Options:
 Logged-out users are presented with clear sign-in and sign-up options, streamlining the process of accessing the platform and encouraging new user registrations.
 
-![Signin](../frontend-foto-flux//readme/images/sign-in.png)
+![Signin](/static/images/sign-in.png)
 
-![Signup](../frontend-foto-flux/readme/images/sign-up.png)
-
+![Signup](/static/images/sign-up.png)
 ### Search Bar: 
 The search bar functionality allows users to search for posts by keywords used in the title or content, facilitating content discovery and navigation within the platform.
 
-![Search](../frontend-foto-flux/readme/images/search.png)
+![Search](/static/images/search.png)
 
 ### Like/Unlike Feature: 
 The like/unlike feature enables users to express their appreciation for posts by liking or unliking them, fostering engagement and interaction within the community.
 
-![Like](../frontend-foto-flux/readme/images/like.png)
+![Like](/static/images/like.png)
 
 ### Comment Feature: 
 The comment feature allows users to create, view, edit, or delete comments on posts, facilitating discussion, feedback, and interaction among users.
 
-![Comment](../frontend-foto-flux/readme/images/comment.png)
+![Comment](/static/images/comment.png)
 
 ### Future Features
 
