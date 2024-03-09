@@ -154,7 +154,7 @@ Feature            | Testing Performed                                      | Te
 
 ## Lighthouse Testing
 
-![lighthouse](../frontend-foto-flux/readme/images/light-house.png)
+![lighthouse](/static/images/light-house.png)
 
 <hr>
 <br>
