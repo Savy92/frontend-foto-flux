@@ -37,7 +37,7 @@ const Post = (props) => {
       await axiosRes.delete(`/posts/${id}/`);
       history.goBack();
     } catch (err) {
-      console.log(err);
+      // console.log(err);
     }
   };
 
@@ -53,7 +53,7 @@ const Post = (props) => {
         }),
       }));
     } catch (err) {
-      console.log(err);
+      // console.log(err);
     }
   };
 
@@ -69,7 +69,7 @@ const Post = (props) => {
         }),
       }));
     } catch (err) {
-      console.log(err);
+      // console.log(err);
     }
   };
 
@@ -98,7 +98,6 @@ const Post = (props) => {
       <Card.Body>
         {title && <Card.Title className="text-center">{title}</Card.Title>}
         {content && <Card.Text>{content}</Card.Text>}
-        <div className={styles.PostBar}>
           {is_owner ? (
             <OverlayTrigger
               placement="top"
@@ -127,7 +126,6 @@ const Post = (props) => {
             <i className="far fa-comments" />
           </Link>
           {comments_count}
-        </div>
       </Card.Body>
     </Card>
   );
